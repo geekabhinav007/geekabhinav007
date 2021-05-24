@@ -22,8 +22,9 @@
 <a target="_blank" href="https://twitter.com/geek_abhinav">
   <img align="left" alt="Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://discord.com/channels/@me">
+<a href="">
   <img align="left" alt="Abhinav's Discord" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=gekabhinav007.geekabhinav007)
 
