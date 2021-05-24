@@ -13,13 +13,13 @@
 
 ![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=geekabhinav007&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geekabhinav007&layout=compact&theme=radical)](https://github.com/gekabhinav007/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geekabhinav007&layout=compact&theme=tokyonight)](https://github.com/gekabhinav007/github-readme-stats)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geekabhinav007&repo=web-noobdevelopers&theme=radical)](https://github.com/geekabhinav007/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geekabhinav007&repo=code_C_programming&theme=radical)](https://github.com/geekabhinav007/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geekabhinav007&repo=www&theme=radical)](https://github.com/geekabhinav007/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geekabhinav007&repo=noobdeveloper&theme=radical)](https://github.com/geekabhinav007/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geekabhinav007&repo=web-noobdevelopers&theme=synthwave)](https://github.com/geekabhinav007/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geekabhinav007&repo=code_C_programming&theme=synthwave)](https://github.com/geekabhinav007/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geekabhinav007&repo=www&theme=synthwave)](https://github.com/geekabhinav007/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=geekabhinav007&repo=noobdeveloper&theme=synthwave)](https://github.com/geekabhinav007/github-readme-stats)
 
 
 <!--
