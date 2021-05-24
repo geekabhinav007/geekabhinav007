@@ -26,7 +26,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=gekabhinav007.geekabhinav007)
 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="550" height="400" /> 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="350" /> 
 
 
 Hi, I'm [Kumar Abhinav](https://geekabhinav007.github.io/www/), a passionate self-taught Future Full Stack web developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I am a 1st year B.Tech (Eletronics) Student.
