@@ -32,18 +32,18 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="350" /> 
 
 
-Hi, I'm [Kumar Abhinav](https://geekabhinav007.github.io/www/), a passionate self-taught Future Full Stack web developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I am a 1st year B.Tech (Eletronics) Student.
+Hi, I'm [Kumar Abhinav](https://geekabhinav007.github.io/www/), a passionate self-taught Future Full Stack web developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. ***I am a 1st year B.Tech (Eletronics) Student***.
 
 I am also an open-source enthusiast. I learned from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-- 🔭 I’m currently working as a Student.
-- 🌱 I’m currently learning Web Development.
-- 👯 I’m looking to collaborate on Github. 
-- 🤔 I’m looking for help with Web Development.
+- 🔭 I’m currently working as a ***Student***.
+- 🌱 I’m currently learning ***Web Development and Digital Marketing***.
+- 👯 I’m looking to collaborate on ***Github***.
+- 🤔 I’m looking for help with ***Web Development and C Programming***.
 - 💬 Ask me about Anything.
 - 📫 How to reach me: [@geek_abhinav](https://twitter.com/geek_abhinav)
 - 😄 Pronouns: HE/HIS
-- ⚡ Fun fact: You are viewing my profile.
+- ⚡ Fun fact: ***You are viewing my profile.***
 
 ## Technology and Tools 
 
