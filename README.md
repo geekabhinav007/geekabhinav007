@@ -9,7 +9,7 @@
   -->
 </a>
 <a target="_blank" href="https://www.instagram.com/_i_abhi.nav/">
-  <img align="left" alt="Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Instagram" width="25px" src="https://cdn.iconscout.com/icon/free/png-64/instagram-1868978-1583142.png" />
 </a>
 <!--
 <a target="_blank" href="">
@@ -17,7 +17,7 @@
     -->
 </a>
 <a target="_blank" href="mailto:abhinavabhinav26012002@gmail.com">
-  <img align="left" alt="Gmail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Gmail" width="25px" src="https://cdn.iconscout.com/icon/free/png-64/gmail-2981844-2476484.png" />
 </a>
 <a target="_blank" href="https://twitter.com/geek_abhinav">
   <img align="left" alt="Twitter" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
