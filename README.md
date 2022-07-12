@@ -39,7 +39,7 @@ I am also an open-source enthusiast. I learned from the open-source community an
 - 🔭 I’m currently working as a ***Student***.
 - 🌱 I’m currently learning ***Web Development and Digital Marketing***.
 - 👯 I’m looking to collaborate on ***Github***.
-- 🤔 I’m looking for help with ***Web Development and C Programming***.
+- 🤔 I’m looking for help with ***Web Development, C++, Python and C Programming***.
 - 💬 Ask me about Anything.
 - 📫 How to reach me: [@geek_abhinav](https://twitter.com/geek_abhinav)
 - 😄 Pronouns: HE/HIS
