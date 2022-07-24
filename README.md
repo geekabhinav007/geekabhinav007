@@ -32,7 +32,7 @@
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="500" height="350" /> 
 
 
-Hi, I'm [Kumar Abhinav](https://geekabhinav007.github.io/www/), a passionate self-taught Future Full Stack web developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. ***I am a 1st year B.Tech (Information Technology) Student***.
+Hi, I'm [Kumar Abhinav](https://geekabhinav007.github.io/www/), a passionate self-taught Future Full Stack web developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. ***I am a 3rd year B.Tech (Information Technology) Student***.
 
 I am also an open-source enthusiast. I learned from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
