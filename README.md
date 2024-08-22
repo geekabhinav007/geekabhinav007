@@ -1,16 +1,11 @@
 # Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> This is Kumar Abhinav 
 
-<a target="_blank" href="https://www.linkedin.com/in/kumar-abhinav-596b27188/">
-  <img align="left" alt="LinkdeIN" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
 <!--
 <a target="_blank" href="">
   <img align="left" alt="Whatsapp" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
   -->
-</a>
-<a target="_blank" href="https://www.instagram.com/_i_abhi.nav/">
-  <img align="left" alt="Instagram" width="25px" src="https://cdn.iconscout.com/icon/free/png-64/instagram-1868978-1583142.png" />
-</a>
+
 <!--
 <a target="_blank" href="">
   <img align="left" alt="Devto" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
@@ -19,12 +14,7 @@
 <a target="_blank" href="mailto:abhinavabhinav26012002@gmail.com">
   <img align="left" alt="Gmail" width="25px" src="https://cdn.iconscout.com/icon/free/png-64/gmail-2981844-2476484.png" />
 </a>
-<a target="_blank" href="https://twitter.com/geek_abhinav">
-  <img align="left" alt="Twitter" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="">
-  <img align="left" alt="Abhinav's Discord" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-  </a>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=gekabhinav007.geekabhinav007)
 
@@ -32,17 +22,16 @@
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="500" height="350" /> 
 
 
-Hi, I'm [Kumar Abhinav](https://geekabhinav007.github.io/www/), a passionate self-taught Future Full Stack web developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. ***I am a 3rd year B.Tech (Information Technology) Student***.
+Hi, I'm [Kumar Abhinav](https://geekabhinav007.github.io/), a passionate self-taught Future Full Stack web developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
 
 I am also an open-source enthusiast. I learned from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-- 🔭 I’m currently working as a ***Student***.
-- 🌱 I’m currently learning ***Web Development and Digital Marketing***.
+- 🔭 I’m currently working as a ***Software Developer***.
+- 🌱 I’m currently learning ***Web Development, System Design and DSA***.
 - 👯 I’m looking to collaborate on ***Github***.
-- 🤔 I’m looking for help with ***Web Development, C++, Python and C Programming***.
+- 🤔 I’m looking for help with ***Web Development, C++, Python and C Programming, JavaScript***.
 - 💬 Ask me about Anything.
-- 📫 How to reach me: [@geek_abhinav](https://twitter.com/geek_abhinav)
-- 😄 Pronouns: HE/HIS
+- 📫 How to reach me: [Kumar Abhinav](https://www.linkedin.com/in/kumar-abhinav-596b27188/)
 - ⚡ Fun fact: ***You are viewing my profile.***
 
 ## Technology and Tools 
