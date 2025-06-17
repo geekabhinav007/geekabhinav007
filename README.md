@@ -49,7 +49,8 @@ I am also an open-source enthusiast. I learned from the open-source community an
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=geekabhinav007&show_icons=true&theme=radical&count_private=true)
+<!-- ![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=geekabhinav007&show_icons=true&theme=radical&count_private=true)
+-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geekabhinav007&layout=compact&theme=tokyonight)](https://github.com/gekabhinav007/github-readme-stats)
 
