@@ -22,14 +22,15 @@
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="500" height="350" /> 
 
 
-Hi, I'm [Kumar Abhinav](https://geekabhinav007.github.io/), a passionate self-taught Future Full Stack web developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
+Hi, I'm [Kumar Abhinav](https://geekabhinav007.github.io/),
+I'm a Software Developer from India with a strong foundation in web development, data structures, and algorithms. My journey in technology is fueled by a relentless desire to learn and a passion for making things come to life with code. I excel in collaborative settings, believing that the best products are built through shared knowledge and teamwork.
 
-I am also an open-source enthusiast. I learned from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+Beyond my professional work, I'm an avid open-source contributor. I find immense value in the community-driven approach to software development and am always looking for opportunities to collaborate on innovative projects.
 
 - 🔭 I’m currently working as a ***Software Developer***.
-- 🌱 I’m currently learning ***Web Development, System Design and DSA***.
+- 🌱 I’m currently learning ***System Design and Artificial Intelligence***.
 - 👯 I’m looking to collaborate on ***Github***.
-- 🤔 I’m looking for help with ***Web Development, C++, Python and C Programming, JavaScript***.
+- 🤔 I’m looking for help with ***LLM, AGI***.
 - 💬 Ask me about Anything.
 - 📫 How to reach me: [Kumar Abhinav](https://www.linkedin.com/in/kumar-abhinav-596b27188/)
 - ⚡ Fun fact: ***You are viewing my profile.***
@@ -38,15 +39,32 @@ I am also an open-source enthusiast. I learned from the open-source community an
 
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
+<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+
+<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!-- ![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=geekabhinav007&show_icons=true&theme=radical&count_private=true)
